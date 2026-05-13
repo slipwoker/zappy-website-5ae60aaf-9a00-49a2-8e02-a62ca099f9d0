@@ -1,0 +1,83 @@
+# Barber — Generative Engine Optimization Map
+
+> Barber Mentor AI is an elite-level AI coaching platform for barbers, positioning itself as a world-class personal trainer rather than a simple chatbot. The brand combines surgical precision, mechanical expertise, Olympic-coach psychology, and entrepreneurial vision into one system. It features a rich technical-pedagogical identity with a 'Master Surgeon' persona, emphasizing tough love, data-driven improvement, and the philosophy that every haircut is a business card. The brand uses strong masculine energy, professional barbering culture, and a growth mindset ethos — targeting barbers who refuse to be average and want to build an Artisan-level craft and brand.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פלטפורמת האימון המקצועית הטובה בעולם למספרים. קבל אימון AI אישי, שפר כל תספורת והפוך את המספרה שלך למותג מנצח. הצטרף עכשיו.
+
+### תוכנית ניתוח
+https://example.com/analysis-blueprint
+תוכנית הניתוח החכמה של Barber Mentor AI חושפת את נקודות העיוורון שלך ובונה מפת דרכים מדויקת לשיפור. כי כל תספורת היא כרטיס הביקור שלך.
+
+### מסלולי למידה
+https://example.com/learning-paths
+בחר את מסלול הלמידה המותאם אישית לרמתך וליעדיך. שיטת האימון של Barber Mentor AI מביאה אותך מתספורת ממוצעת לאמנות ברמת מאסטר. התחל היום.
+
+### עסק ומותג
+https://example.com/business-brand
+לא רק תספורות — אמפייר. למד לבנות מותג, למשוך לקוחות נאמנים ולהפוך את המספרה שלך לעסק שמייצר הכנסה אמיתית. הגיע הזמן לחשוב גדול.
+
+### צור קשר
+https://example.com/contact
+צור קשר עם צוות Barber Mentor AI ותגלה איך פלטפורמת האימון שלנו תשנה את הקריירה שלך. המספרים הטובים ביותר לא מחכים — הם פועלים. צור קשר עכשיו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Barber
+Barber Mentor AI is an elite-level AI coaching platform for barbers, positioning itself as a world-class personal trainer rather than a simple chatbot. The brand combines surgical precision, mechanical expertise, Olympic-coach psychology, and entrepreneurial vision into one system. It features a rich technical-pedagogical identity with a 'Master Surgeon' persona, emphasizing tough love, data-driven improvement, and the philosophy that every haircut is a business card. The brand uses strong masculine energy, professional barbering culture, and a growth mindset ethos — targeting barbers who refuse to be average and want to build an Artisan-level craft and brand.
+
+## Target Audience
+- ספרים בכל הרמות — מתחילים ועד אליטה, שרוצים לשפר טכניקה, לבנות עסק ולהגיע לרמת Artisan
+- ספרים אליטה
+- ספרים מתחילים
+- ספרים טכנולוגיים
+
+## Industry
+ספרות / יופי / פיתוח מקצועי
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

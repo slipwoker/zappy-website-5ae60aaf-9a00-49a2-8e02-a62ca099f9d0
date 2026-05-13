@@ -356,7 +356,7 @@
     </svg>
   </button>
 
-  <button class="phone-header-btn" data-phone="" aria-label="Call">
+  <button class="phone-header-btn" data-phone="0587234473" aria-label="Call">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
       <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
     </svg>
@@ -798,7 +798,7 @@
         const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
         const phoneNumber = phoneLinks.length > 0 
           ? phoneLinks[0].getAttribute('href').replace('tel:', '')
-          : '[business_phone]';
+          : '0587234473';
         
         window.location.href = 'tel:' + phoneNumber;
         console.log('[Navbar] Phone button clicked');
@@ -838,7 +838,7 @@
         <span class="index-hero-accent">לרמת Artisan</span>
       </h1>
 
-      <h3 class="index-hero-subtitle" style="">
+      <h3 class="index-hero-subtitle" >
         Barber&nbsp; משלב עין כירורגית, דיוק מכני, פסיכולוגיית ביצוע וחזון עסקי — מערכת אחת שהופכת כל תספורת לכרטיס ביקור.
       </h3>
 
@@ -882,7 +882,7 @@
     <div class="index-capabilities-intro">
       <p><span class="index-capabilities-label">ארבעה עמודי תווך</span>
       </p><h2 class="index-capabilities-heading">מעבר לתשובות — <em>מאמן שמבין את המלאכה</em></h2>
-      <p class="index-capabilities-subtext" style="">Barber לא מספק טיפים גנריים. הוא מנתח, מאבחן ומפתח — כמו מאמן אולימפי שרואה בכל תספורת כרטיס ביקור.</p>
+      <p class="index-capabilities-subtext" >Barber לא מספק טיפים גנריים. הוא מנתח, מאבחן ומפתח — כמו מאמן אולימפי שרואה בכל תספורת כרטיס ביקור.</p>
       <div class="index-capabilities-rule" aria-hidden="true"></div>
     </div>
 
@@ -902,7 +902,7 @@
           </div>
           <div class="index-capabilities-card-body" data-grid-item-index="1">
             <h3>עין הניתוח — דיוק כירורגי</h3>
-            <p style="">המערכת מזהה כל א-סימטריה, כל ghost line וכל dark spot בתספורת שלך. כמו מנתח פלסטי שרואה את מה שאחרים מפספסים — Barber&nbsp; מלמד אותך לראות לפני שאתה נוגע.</p>
+            <p >המערכת מזהה כל א-סימטריה, כל ghost line וכל dark spot בתספורת שלך. כמו מנתח פלסטי שרואה את מה שאחרים מפספסים — Barber&nbsp; מלמד אותך לראות לפני שאתה נוגע.</p>
           </div>
         </article>
 
@@ -993,7 +993,7 @@
     <div class="index-process-intro">
       <p><span class="index-process-eyebrow" style="color: rgb(247, 241, 232) !important;">המסלול שלך לרמת Artisan</span>
       </p><h2 class="index-process-heading">חמישה שלבים.<br><em>תהליך אחד. תוצאות אמיתיות.</em></h2>
-      <p class="index-process-subtext" style="">Barber&nbsp; מלווה אותך מהרגע הראשון — בין אם אתה מנתח עבודה גמורה, מתקן בזמן אמת, מבקש עזרה דחופה, או בונה את המותג שלך לטווח ארוך.</p>
+      <p class="index-process-subtext" >Barber&nbsp; מלווה אותך מהרגע הראשון — בין אם אתה מנתח עבודה גמורה, מתקן בזמן אמת, מבקש עזרה דחופה, או בונה את המותג שלך לטווח ארוך.</p>
     </div>
 
     <!-- Main content: timeline + image strip -->
@@ -1056,7 +1056,7 @@
       <!-- Narrow vertical image strip (desktop only) -->
       <aside class="index-process-image-strip" aria-label="תמונות עבודת ספר">
         <figure class="index-process-fig">
-          <img loading="lazy" decoding="async" data-placeholder="index-process-image-1" data-context="Close-up detail of a barber performing a precise fade transition on a client, showing the gradient blend from skin to hair with a clipper, dramatic studio lighting, dark background, professional barbershop atmosphere, high contrast black and white tones with warm highlights" width="260" height="680" src="/assets/site-index-process-image-1.webp" alt="פרטי עבודת fade ומעבר גראדיאנט של ספר מקצועי" style="">
+          <img loading="lazy" decoding="async" data-placeholder="index-process-image-1" data-context="Close-up detail of a barber performing a precise fade transition on a client, showing the gradient blend from skin to hair with a clipper, dramatic studio lighting, dark background, professional barbershop atmosphere, high contrast black and white tones with warm highlights" width="260" height="680" src="/assets/site-index-process-image-1.webp" alt="פרטי עבודת fade ומעבר גראדיאנט של ספר מקצועי" >
         </figure>
         <div class="index-process-strip-label" aria-hidden="true">
           <span>PRECISION</span>
@@ -1088,7 +1088,7 @@
 
       <h2 class="index-cta-heading">הפסק להיות ספר ממוצע.<br><em>התחל לבנות מורשת.</em></h2>
 
-      <p class="index-cta-body" style="">כל תספורת היא כרטיס הביקור שלך. כל לקוח שיוצא מהכיסא — שגריר או ביקורת. Barber מביא אליך את הדיסציפלינה, התיעוד, והסטנדרטים של האליטה — כדי שהצמיחה שלך תהיה מדידה, ממשית, ובלתי ניתנת לעצירה.</p>
+      <p class="index-cta-body" >כל תספורת היא כרטיס הביקור שלך. כל לקוח שיוצא מהכיסא — שגריר או ביקורת. Barber מביא אליך את הדיסציפלינה, התיעוד, והסטנדרטים של האליטה — כדי שהצמיחה שלך תהיה מדידה, ממשית, ובלתי ניתנת לעצירה.</p>
 
       <div class="index-cta-buttons">
         <a href="/contact" class="index-cta-btn-primary" data-element-type="button" data-element-id="btn-1778677600180-6nvav6qos" data-native-element="true">התחל את המסע שלך</a>
@@ -1113,9 +1113,7 @@
           </div>
           <p class="footer-tagline">פלטפורמת ה-AI המובילה לפיתוח מקצועי של ספרים. מן המספריים אל המותג.</p>
           <div class="footer-social">
-            
-            
-            
+            <!-- All social platforms disabled -->
           </div>
         </div>
 
@@ -1143,14 +1141,14 @@
           <ul class="footer-contact">
             <li>
               <span class="contact-icon"><i class="fas fa-envelope"></i></span>
-              <span class="contact-text"><a href="mailto:[business_email]">[business_email]</a></span>
+              <span class="contact-text"><a href="mailto:y0587234473@gmail.com">y0587234473@gmail.com</a></span>
             </li>
             <li>
               <span class="contact-icon"><i class="fas fa-phone"></i></span>
-              <span class="contact-text"><a href="tel:[business_phone]">[business_phone]</a></span>
+              <span class="contact-text"><a href="tel:0587234473">0587234473</a></span>
             </li>
             <li><a href="/"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
-              <span class="contact-text">[business_address]</span></a></li>
+              <span class="contact-text">דרור4\4, גבעת זאב, ישראל, ישראל</span></a></li>
           </ul>
         </div>
 
@@ -1194,7 +1192,7 @@
   </div>
 </footer>
   
-  <a href="https://wa.me/[whatsapp_handle]" class="whatsapp-float" aria-label="WhatsApp">
+  <a href="https://wa.me/[whatsapp_handle]" class="whatsapp-float" aria-label="WhatsApp" style="display:none">
     <i class="fab fa-whatsapp"></i>
   </a>
   

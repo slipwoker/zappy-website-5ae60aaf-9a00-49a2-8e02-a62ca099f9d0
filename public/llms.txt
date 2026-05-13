@@ -44,7 +44,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: y0587234473@gmail.com
+- Phone: 0587234473
+- Phone (tel): tel:0587234473
+- Address: דרור4\4, גבעת זאב, ישראל, ישראל
 
 ### Contact form
 - URL: https://example.com/contact

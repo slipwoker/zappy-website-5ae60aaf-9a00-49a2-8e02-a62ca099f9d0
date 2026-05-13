@@ -11229,6 +11229,14 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   0%, 100% { transform: scale(1); box-shadow: 0 3px 12px rgba(166, 90, 58, 0.5); }
   50% { transform: scale(1.04); box-shadow: 0 5px 18px rgba(166, 90, 58, 0.75); }
 }
+
+.business-brand-pricing-section .bbps-sale-badge {
+  color: #000000 !important;
+}
+
+.business-brand-pricing-section .bbps-sale-badge--artisan {
+  color: #000000 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,

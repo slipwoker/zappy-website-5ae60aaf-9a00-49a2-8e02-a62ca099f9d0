@@ -44,10 +44,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- Email: y0587234473@gmail.com
+- Email: Y0587234473@GMAIL.COM
 - Phone: 0587234473
 - Phone (tel): tel:0587234473
-- Address: דרור4\4, גבעת זאב, ישראל, ישראל
+- Address: דרור4/4, גבעת זאב, ישראל, ישראל
 
 ### Contact form
 - URL: https://barber.zappy5.app/contact

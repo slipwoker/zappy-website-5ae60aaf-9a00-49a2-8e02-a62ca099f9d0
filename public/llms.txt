@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://example.com
+https://barber.zappy5.app
 פלטפורמת האימון המקצועית הטובה בעולם למספרים. קבל אימון AI אישי, שפר כל תספורת והפוך את המספרה שלך למותג מנצח. הצטרף עכשיו.
 
 ### תוכנית ניתוח
-https://example.com/analysis-blueprint
+https://barber.zappy5.app/analysis-blueprint
 תוכנית הניתוח החכמה של Barber Mentor AI חושפת את נקודות העיוורון שלך ובונה מפת דרכים מדויקת לשיפור. כי כל תספורת היא כרטיס הביקור שלך.
 
 ### מסלולי למידה
-https://example.com/learning-paths
+https://barber.zappy5.app/learning-paths
 בחר את מסלול הלמידה המותאם אישית לרמתך וליעדיך. שיטת האימון של Barber Mentor AI מביאה אותך מתספורת ממוצעת לאמנות ברמת מאסטר. התחל היום.
 
 ### עסק ומותג
-https://example.com/business-brand
+https://barber.zappy5.app/business-brand
 לא רק תספורות — אמפייר. למד לבנות מותג, למשוך לקוחות נאמנים ולהפוך את המספרה שלך לעסק שמייצר הכנסה אמיתית. הגיע הזמן לחשוב גדול.
 
 ### צור קשר
-https://example.com/contact
+https://barber.zappy5.app/contact
 צור קשר עם צוות Barber Mentor AI ותגלה איך פלטפורמת האימון שלנו תשנה את הקריירה שלך. המספרים הטובים ביותר לא מחכים — הם פועלים. צור קשר עכשיו.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://barber.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://barber.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://barber.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -50,8 +50,8 @@ Information about WCAG compliance and accessibility features.
 - Address: דרור4\4, גבעת זאב, ישראל, ישראל
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://barber.zappy5.app/contact
+- Endpoint: https://barber.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Barber Mentor AI is an elite-level AI coaching platform for barbers, positioning
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://barber.zappy5.app/sitemap.xml
+- Robots: https://barber.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://barber.zappy5.app/llms-full.txt
